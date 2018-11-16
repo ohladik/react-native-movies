@@ -4,6 +4,8 @@
 
 Built with React Native and Firebase for authentication.
 
+![](demo.gif)
+
 ## Firebase setup
 
 In the project root directory create file `firebase_config.js`:
